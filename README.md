@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @FarrukhRakhmanov
-- 👀 I’m interested in coding and solving problems with the use of codes, also I like cycling. 
-- 🌱 I’m currently learning C# and programming concepts 
-- 💞️ I’m looking to collaborate on various open source projects
-- 📫 How to reach me farrukh.rakhmanov12@gmail.com  
-- 😄 Pronouns: He/his/him
-- ⚡ Fun fact: I can move my ears without hands and code :) 
+👋 Hi, I’m @FarrukhRakhmanov
+💻 Passionate Coder: I enjoy solving problems with code and exploring creative solutions.
+🚴 Cycling Enthusiast: When I'm not coding, you’ll find me on two wheels.
+🌱 Currently Learning: C#, .NET Core, and advanced programming concepts.
+🤝 Collaboration: Open to contributing to exciting open-source projects.
+📫 Contact: farrukh.rakhmanov12@gmail.com
+🌟 Open to Work: Actively seeking opportunities in C# and .NET Core development.
+😄 Fun Fact: I can move my ears hands-free and still write flawless code!
 
 <!---
 FarrukhRakhmanov/FarrukhRakhmanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
