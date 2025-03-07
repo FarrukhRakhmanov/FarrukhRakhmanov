@@ -1,4 +1,4 @@
-👋 Hi, I’m @FarrukhRakhmanov 
+👋 Hi, I’m Farrukh Rakhmanov 
 
 💻 Passionate Coder: I enjoy solving problems with code and exploring creative solutions.
 
