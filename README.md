@@ -4,7 +4,7 @@
 
 🚴 Cycling Enthusiast: When I'm not coding, you’ll find me on two wheels.
 
-🌱 Currently Learning: C#, .NET Core, and advanced programming concepts.
+🌱 Recent college graduate: C#, .NET Core, and advanced programming concepts.
 
 🤝 Collaboration: Open to contributing to exciting open-source projects.
 
@@ -12,7 +12,6 @@
 
 🌟 Open to Work: Actively seeking opportunities in C# and .NET Core development.
 
-😄 Fun Fact: I can move my ears hands-free and still write flawless code!
 
 <!---
 FarrukhRakhmanov/FarrukhRakhmanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
