@@ -11,7 +11,7 @@
 📫 Contact: farrukh.rakhmanov12@gmail.com
 
 🌟 Open to Work: Actively seeking opportunities in C# and .NET Core development.
-
+📍 Kitchener, Ontario, Canada
 
 <!---
 FarrukhRakhmanov/FarrukhRakhmanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
