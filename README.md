@@ -11,6 +11,7 @@
 📫 Contact: farrukh.rakhmanov12@gmail.com
 
 🌟 Open to Work: Actively seeking opportunities in C# and .NET Core development.
+
 📍 Kitchener, Ontario, Canada
 
 <!---
